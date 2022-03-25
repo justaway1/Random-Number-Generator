@@ -15,6 +15,11 @@
      width: 90%;
      margin: 50px auto;
      display: flex;
+     padding: 20px;
+     border-left: 2px solid rgba(0, 0, 0, 0.164);
+     border-bottom: 2px solid rgba(0, 0, 0, 0.164);
+     box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.555);
+     height: 500px;
 
  }
 
@@ -25,8 +30,8 @@
 
  .the-creator p {
      position: absolute;
-     top: 22px;
-     left: 175px;
+     top: 42px;
+     left: 190px;
      font-weight: 800;
      background-color: brown;
      font-size: 1rem;
