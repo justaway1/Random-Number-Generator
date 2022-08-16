@@ -50,5 +50,6 @@ You need to be **lucky enough** to get **5** or **15**!
 
 
 Good Luck, gaming!
+
 /Happy Coding/
 
