@@ -29,9 +29,14 @@ You need to be careful, cause you only have on your **disposal 5 lives** and wit
 
 ![lives](https://user-images.githubusercontent.com/44018646/184932330-383f2a91-e75b-4819-824f-02dd1d13ef0c.jpg) **CLICK** **CLICK**!!! ![lesslives](https://user-images.githubusercontent.com/44018646/184934573-fb091c8c-de94-4083-ad3c-0d2df8c1799d.jpg)
 
-and eventually leads to 
+And eventually leads to,  
 
 ![gameover](https://user-images.githubusercontent.com/44018646/184935776-ba59510f-570c-4e9d-976a-ff9199e8709d.jpg)
+
+but, **dont worry** you can always! 
+
+![Tryagain](https://user-images.githubusercontent.com/44018646/184936806-8f5fb886-6dc1-48c3-87dc-efb52ba1d995.jpg)
+
 
 ------------------------------------------
 
@@ -42,5 +47,8 @@ You need to be **lucky enough** to get **5** or **15**!
 ![winning](https://user-images.githubusercontent.com/44018646/184934936-f13be6e9-bbc5-4ade-9e00-09db457d1e2f.jpg)
 
 ![Winwith15](https://user-images.githubusercontent.com/44018646/184935030-15dda22f-185f-4036-b223-fbb3ec1f6758.jpg)
+
+
+Good Luck, gaming!
 
 
