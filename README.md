@@ -8,7 +8,7 @@
 
 **Tech Used:**
 
-  - HTML5
+  - HTML5...
   - CSS3
   - JS
   - JQuary
