@@ -8,8 +8,8 @@
 
 **Tech Used:**
 
-  - HTML5...
-  - CSS3...
+  - HTML5
+  - CSS3
   - JS
   - JQuary
   --------------------
