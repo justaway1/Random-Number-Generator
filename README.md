@@ -8,10 +8,10 @@
 
 **Tech Used:**
 
-  - HTML5....
-  - CSS3...
-  - JS....
-  - JQuary...
+  - HTML5
+  - CSS3
+  - JS.
+  - JQuary
   --------------------
   **Live Preview [here](https://justaway1.github.io/Random-Number-Generator/)**
   --------------------
